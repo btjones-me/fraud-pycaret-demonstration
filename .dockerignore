@@ -1,0 +1,10 @@
+.git
+/venv/*
+/.venv/*
+.ipynb_checkpoints/*
+/unused/*
+Dockerfile
+.DS_Store
+.gitignore
+env.*
+/devops/*
