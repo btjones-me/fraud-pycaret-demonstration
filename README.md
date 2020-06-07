@@ -1,7 +1,7 @@
 fraud-pycaret-demonstration
 ==============================
 
-A short demonstration of using PyCaret to tackle transaction fraud. 
+A short demonstration using PyCaret to tackle transaction fraud. 
 
 The following project contains an example data science workflow for a short project, conducting exploratory data analysis, and building machine learning modelling pipelines (and in this case, experimenting with the new PyCaret package).
 
@@ -10,6 +10,8 @@ The following project contains an example data science workflow for a short proj
 | Author 	| Benjamin Jones 	|
 |--------	|----------------	|
 | Date   	| 02/06/2020     	|
+
+![image](./reports/figures/pairplot_transactions.png)
 
 ### Getting Started 
 
