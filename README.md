@@ -3,6 +3,8 @@ fraud-pycaret-demonstration
 
 A short demonstration using PyCaret to tackle transaction fraud. 
 
+The motivation for this project was to experiment with the (then new) PyCaret package to see how it compares with commonly used alternatives such as scikit-learn & xgboost.  
+
 The following project contains an example data science workflow for a short project, conducting exploratory data analysis, and building machine learning modelling pipelines (and in this case, experimenting with the new PyCaret package).
 
 \#python #pandas #matplotlib #seaborn #pycaret #jupyter #lightgbm #xgboost  
